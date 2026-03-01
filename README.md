@@ -1,5 +1,7 @@
 # G.Jyotsna-10505_JAVA
-This is my Java assignments works based on if else and for loop conditions 
+This is my Java assignments works based on if else and for loop conditions
+
+
 📌 Overview
 This assignment demonstrates the use of if-else conditional statements and for loops in Java. These are basic control structures used to make decisions and repeat actions in a program.
 
