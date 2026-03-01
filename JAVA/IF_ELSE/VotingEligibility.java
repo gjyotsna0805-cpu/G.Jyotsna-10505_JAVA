@@ -1,0 +1,37 @@
+package IF_ELSE;
+
+public class VotingEligibility {
+  public static void main(String[] args) {
+    Scanner sc = new Scanner(System.in);
+    int age = sc.nextInt();
+    if (age >= 18) {
+      System.out.println("Eligible");
+    } else {
+      System.out.println("not eligible");
+    }
+  }
+}
+
+public class VotingEligibility {
+  public static void main(String[] args) {
+    Scanner sc = new Scanner(System.in);
+    int age = sc.nextInt();
+    if (age >= 18) {
+      System.out.println("Eligible");
+    } else {
+      System.out.println("not eligible");
+    }
+  }
+}
+
+public class VotingEligibility {
+  public static void main(String[] args) {
+    Scanner sc = new Scanner(System.in);
+    int age = sc.nextInt();
+    if (age >= 18) {
+      System.out.println("Eligible");
+    } else {
+      System.out.println("not eligible");
+    }
+  }
+}
